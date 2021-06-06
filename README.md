@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ameya Ranade</h1>
-<h3 align="center">Looking for a role in an organization to utilize my technical, database and management skills for the organization's growth and enhance my knowledge about new and emerging trends.</h3>
+<h1 align="center">Hi there👋, I'm Ameya Ranade</h1>
+<h4 align="center">Looking for a role in an organization to utilize my technical, database and management skills for the organization's growth and enhance my knowledge about new and emerging trends.</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ameya1104&label=Profile%20views&color=0e75b6&style=flat" alt="ameya1104" /> </p>
-
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **MERN stack and trying to get a hold on DSA.**
 
 - 👨‍💻 All of my projects are available at [https://ameyaranade.herokuapp.com/](https://ameyaranade.herokuapp.com/)
 
@@ -11,9 +9,7 @@
 
 - 📫 How to reach me **ranadeamr@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- ⚡ Fun fact **I'm an avid football fan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,7 +17,6 @@
 <a href="https://linkedin.com/in/ameya-ranade-57b7291ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ameya-ranade-57b7291ab" height="30" width="40" /></a>
 <a href="https://instagram.com/ameyaranadee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ameyaranadee" height="30" width="40" /></a>
 <a href="https://medium.com/@ameyaranadee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ameyaranadee" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ameyaranade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ameyaranade" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
