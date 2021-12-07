@@ -1,15 +1,9 @@
 <h1 align="center">Hi there👋, I'm Ameya Ranade</h1>
 <h4 align="center">Looking for a role in an organization to utilize my technical, database and management skills for the organization's growth and enhance my knowledge about new and emerging trends.</h4>
 
-- 🌱 I’m currently learning **MERN stack and trying to get a hold on DSA.**
-
-- 👨‍💻 All of my projects are available at [https://ameyaranade.herokuapp.com/](https://ameyaranade.herokuapp.com/)
-
-- 📝 I regularly write articles on [https://ameyarandee.medium.com/](https://ameyarandee.medium.com/)
+- 🌱 I’m currently learning **Data Science and trying to get a hold on DSA.**
 
 - 📫 How to reach me **ranadeamr@gmail.com**
-
-- ⚡ Fun fact **I'm an avid football fan**
 
 <h3 align="left">Connect with me on LinkedIN:</h3>
 <p align="left">
